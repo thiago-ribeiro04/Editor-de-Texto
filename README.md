@@ -32,4 +32,3 @@ Este é um **Editor de Texto Simples** desenvolvido usando **HTML**, **CSS** e *
 
 
 
-
